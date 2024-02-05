@@ -16,7 +16,7 @@ Claremont, CA 91711, United States
 ______________________________________________________________
 Note:
 
-Users must understand that this application is desgined for graft-copolymers comprised of backbones that are stiffer than their side chains (b_b > b_s)! Using this application for systems with stiffer side chains than backbones invalidates a number of critical assumptiosn made during the development of these equations, and will result in non-physical calculations and regime boundaries.
+Users must understand that this application is desgined for graft-copolymers comprised of backbones that are stiffer than their side chains (b_b > b_s)! Using this application for systems with stiffer side chains than backbones invalidates a number of critical assumptiosn made during the development of these equations, and will result in non-physical calculations and regime boundaries. In addition, the backbone and sidechains are assumed to be completely miscible, meaning no phase seperation occurs. 
 
 ______________________________________________________________ 
 
