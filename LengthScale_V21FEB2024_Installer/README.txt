@@ -35,6 +35,7 @@ PLA = Poly(lactic acid)
 PAAM = Poly(acrylamide)
 PNIPAAM = Poly(N-isopropylacrylamide)
 PHEMA = Poly(hydroxy ethyl methaxrylate)
+PI = Poly(isoprene)
 
 SBB = "Streched backbone"
 SCC = "Streched sidechain"
